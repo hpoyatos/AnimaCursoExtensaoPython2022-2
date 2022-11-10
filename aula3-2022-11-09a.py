@@ -53,5 +53,3 @@ for fruta in frutas:
   print(fruta)
 
 
-
-
